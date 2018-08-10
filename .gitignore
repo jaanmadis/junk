@@ -20,13 +20,13 @@ TimeAdder/TimeAdder/targetver.h
 TimeAdder/Debug
 TimeAdder/*.sln
 
-BinBFS/.vs
-BinBFS/BinBFS/Debug
-BinBFS/BinBFS/*.vcxproj.user
-BinBFS/BinBFS/*.vcxproj
-BinBFS/BinBFS/*.vcxproj.filters
-BinBFS/BinBFS/stdafx.cpp
-BinBFS/BinBFS/stdafx.h
-BinBFS/BinBFS/targetver.h
-BinBFS/Debug
-BinBFS/*.sln
+BinaryTree/.vs
+BinaryTree/BinaryTree/Debug
+BinaryTree/BinaryTree/*.vcxproj.user
+BinaryTree/BinaryTree/*.vcxproj
+BinaryTree/BinaryTree/*.vcxproj.filters
+BinaryTree/BinaryTree/stdafx.cpp
+BinaryTree/BinaryTree/stdafx.h
+BinaryTree/BinaryTree/targetver.h
+BinaryTree/Debug
+BinaryTree/*.sln
