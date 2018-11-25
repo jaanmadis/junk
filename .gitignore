@@ -9,6 +9,17 @@ BaseConverter/BaseConverter/targetver.h
 BaseConverter/Debug
 BaseConverter/*.sln
 
+BaseUnConverter/.vs
+BaseUnConverter/BaseConverter/Debug
+BaseUnConverter/BaseConverter/*.vcxproj.user
+BaseUnConverter/BaseConverter/*.vcxproj
+BaseUnConverter/BaseConverter/*.vcxproj.filters
+BaseUnConverter/BaseConverter/stdafx.cpp
+BaseUnConverter/BaseConverter/stdafx.h
+BaseUnConverter/BaseConverter/targetver.h
+BaseUnConverter/Debug
+BaseUnConverter/*.sln
+
 TimeAdder/.vs
 TimeAdder/TimeAdder/Debug
 TimeAdder/TimeAdder/*.vcxproj.user
